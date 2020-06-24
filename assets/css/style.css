@@ -178,3 +178,6 @@ footer {
     .font {
         font-family: 'Faster One', cursive;
     }
+    iframe {
+        width: 100%;
+      }
